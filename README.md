@@ -6,7 +6,5 @@ Financial Systems & Automation Engineer building production-grade workflows and 
 
 **Currently:** building a small set of public, sanitized projects that demonstrate system design, reliability, and data engineering patterns.
 
-**Open to:** Geneva / Zurich / Dubai roles.
-
 - LinkedIn: https://linkedin.com/in/giorgiocesano
 - Email: cesanogiorgio@gmail.com
