@@ -17,5 +17,7 @@ Projects include:
 
 Most work is in private repositories due to confidentiality. I can share relevant code samples and architecture walk-throughs upon request.
 
+Nr. repositories: 17
+
 LinkedIn: https://linkedin.com/in/giorgiocesano
 Email: cesanogiorgio@gmail.com
