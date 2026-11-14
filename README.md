@@ -8,21 +8,29 @@ I work at the intersection of **finance and software engineering**. In regulated
 
 **My favorite kind of problem:** something that starts as a messy manual process and ends as a reproducible, observable system.
 
+## Explore my engineering work
+
+**[Open the Engineering Showcase →](engineering-showcase/README.md)**
+
+Four concise, architecture-led case studies: [Local AI](engineering-showcase/forge-ai.md) · [Quant research](engineering-showcase/quant-research.md) · [API/data engineering](engineering-showcase/fairflight.md) · [Media automation QA](engineering-showcase/media-qa.md).
+
+*The implementations stay private; the engineering decisions are open for discussion.*
+
 ## Selected projects
 
 Most repositories are **private by design**. These are real projects and prototypes, not public source-code releases; descriptions are intentionally high-level.
 
 | Project | What I built | Engineering themes |
 | --- | --- | --- |
-| **Forge AI** | A local-first AI assistant with retrieval, structured memory, workspace tooling, and constrained agent workflows. | FastAPI · Next.js · Ollama · Docker |
-| **Systematic Trading Research Platform** | A research stack for market-data ingestion, feature engineering, regime analysis, event-driven backtests, and walk-forward validation. | Python · PostgreSQL · FastAPI · TypeScript |
-| **Adaptive Macro Engine** | Cross-asset research using interpretable signals, volatility-aware portfolio construction, and reproducible reporting. | Python · Data pipelines · Backtesting |
+| **[Forge AI](engineering-showcase/forge-ai.md)** | A local-first AI assistant with retrieval, structured memory, workspace tooling, and constrained agent workflows. | FastAPI · Next.js · Ollama · Docker |
+| **[Systematic Trading Research Platform](engineering-showcase/quant-research.md)** | A research stack for market-data ingestion, feature engineering, regime analysis, event-driven backtests, and walk-forward validation. | Python · PostgreSQL · FastAPI · TypeScript |
+| **[Adaptive Macro Engine](engineering-showcase/quant-research.md)** | Cross-asset research using interpretable signals, volatility-aware portfolio construction, and reproducible reporting. | Python · Data pipelines · Backtesting |
 | **Triangular Arbitrage Scanner** | A Binance spot-market scanner evaluating triangular routes against executable bid/ask quotes, fees, slippage, and liquidity. **Paper simulation only.** | Python · WebSockets · Market microstructure |
 | **Smart Accumulation** | A rules-based framework for studying drawdowns, momentum, volatility, and systematic entry zones. | Python · Pandas · Quant research |
 | **Small Cap Command Center** | A local full-stack workspace for screening, analyzing, and ranking US small-cap companies. **Research only, no live orders.** | FastAPI · Web UI · Docker |
 | **Wallet Scanner** | A research pipeline for discovering, filtering, and ranking publicly visible on-chain wallet activity. | Python · Data enrichment · Scoring |
-| **FairFlight Scanner** | A flight-search comparison service that models the actual trip cost, including required extras, across multiple data providers. | FastAPI · Streamlit · APIs · Docker |
-| **Neyra OS** | An offline media-asset registry and QA workflow for validating video/audio outputs before publishing decisions. | Python · FFmpeg · SQLite · Tests |
+| **[FairFlight Scanner](engineering-showcase/fairflight.md)** | A flight-search comparison service that models the actual trip cost, including required extras, across multiple data providers. | FastAPI · Streamlit · APIs · Docker |
+| **[Neyra OS](engineering-showcase/media-qa.md)** | An offline media-asset registry and QA workflow for validating video/audio outputs before publishing decisions. | Python · FFmpeg · SQLite · Tests |
 
 ## Engineering work in finance
 
